@@ -41,7 +41,6 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocSetRedirect_Prod",
-    "markdownEngineName": "markdig"
+    "dest": "E2E_DocSetRedirect_Prod"
   }
 }
